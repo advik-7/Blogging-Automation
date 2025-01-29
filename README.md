@@ -91,7 +91,3 @@ The **Automated Blogging System** is an advanced AI-driven tool that automates e
 - Add **content personalization** features to cater to different user audiences.
 - Implement advanced **topic clustering** techniques to generate a series of related blog posts.
 - Integrate with **other platforms** like Medium, Substack, etc., for cross-platform publishing.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
